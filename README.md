@@ -1,8 +1,12 @@
-# nvim_config
- 
- 
-## Keymaps
+# Neovim config
+## Required Packages
+[Neovim > 0.8](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 
+[Fugitive](https://github.com/tpope/vim-fugitive)
+
+[Harpoon](https://github.com/ThePrimeagen/harpoon)
+
+## Keymaps
 ### Filetree:
 - leader pv : Opens the file explorer in a vertical split.
 
