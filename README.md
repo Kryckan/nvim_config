@@ -6,6 +6,10 @@
 
 [Harpoon](https://github.com/ThePrimeagen/harpoon)
 
+[Telescope](https://github.com/nvim-telescope/telescope.nvim)
+
+[Undotree](https://github.com/mbbill/undotree)
+
 ## Keymaps
 ### Filetree:
 - leader pv : Opens the file explorer in a vertical split.
@@ -26,5 +30,5 @@
 - Ctrl + p : Opens the Telescope Git files picker.
 - leader ps : (Incomplete line, please provide the complete mapping)
 
-### UndoTree:
+### Undotree:
 - leader u : Toggles the UndoTree window.
