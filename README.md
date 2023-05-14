@@ -28,7 +28,7 @@
 ### Telescope:
 - leader pf : Opens the Telescope find files picker.
 - Ctrl + p : Opens the Telescope Git files picker.
-- leader ps : Starts search
+- leader ps : (Incomplete line, please provide the complete mapping)
 
 ### Undotree:
 - leader u : Toggles the UndoTree window.
